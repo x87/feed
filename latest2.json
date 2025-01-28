@@ -9,6 +9,11 @@
     "content": "Sanny Builder v4.1 development started! Learn more about new features <a href='https://github.com/sannybuilder/dev/issues/355'>here</a>.",
     "tags": ["sanny"]
   },
+    {
+    "date": "2025-01-01",
+    "content": "Somersault, a lightweight scripting language for GTA San Andreas, has been open sourced. Visit <a href='https://github.com/sannybuilder/next'>GitHub repo</a>",
+    "tags": ["sanny"]
+  },
   {
     "date": "2024-12-22",
     "content": "CLEO for III and Vice City updated to v2.1.1 with new opcodes and fixes. <a href='https://github.com/cleolibrary/III.VC.CLEO/blob/master/Changelog.md'>See change log</a> for details.",
