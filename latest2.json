@@ -1,4 +1,11 @@
-[  {
+[  
+      {
+    "date": "2025-08-04",
+    "content": "Celebrate the 20th Anniversary since Sanny Builder's first release with the new <a href='https://github.com/sannybuilder/dev/releases/tag/v4.2.0'>Sanny Builder 4.2.0!</a>.",
+    "tags": ["sanny"]
+  },
+    
+    {
     "date": "2025-07-19",
     "content": "CLEO 5.1.0 with new Input plugin is out! <a href='https://github.com/cleolibrary/CLEO5/releases/v5.1.0'>Download</a>.",
     "tags": ["cleo"]
