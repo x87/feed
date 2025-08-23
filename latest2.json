@@ -1,4 +1,9 @@
 [  
+            {
+    "date": "2025-08-23",
+    "content": "Check out the new Translation Tool designed to make Sanny Builder easier to translate into other languages: https://translate.sannybuilder.com/",
+    "tags": ["sanny"]
+  },
       {
     "date": "2025-08-04",
     "content": "Celebrate the 20th Anniversary since Sanny Builder's first release with the new <a href='https://github.com/sannybuilder/dev/releases/tag/v4.2.0'>Sanny Builder 4.2.0</a>!",
