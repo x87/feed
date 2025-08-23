@@ -1,16 +1,16 @@
-[  
-            {
+[
+  {
     "date": "2025-08-23",
-    "content": "Check out the new Translation Tool designed to make Sanny Builder easier to translate into other languages: https://translate.sannybuilder.com/",
+    "content": "Check out the <a href='https://translate.sannybuilder.com/'>new Translation Tool</a> designed to make Sanny Builder easier to translate into other languages",
     "tags": ["sanny"]
   },
-      {
+  {
     "date": "2025-08-04",
     "content": "Celebrate the 20th Anniversary since Sanny Builder's first release with the new <a href='https://github.com/sannybuilder/dev/releases/tag/v4.2.0'>Sanny Builder 4.2.0</a>!",
     "tags": ["sanny"]
   },
-    
-    {
+
+  {
     "date": "2025-07-19",
     "content": "CLEO 5.1.0 with new Input plugin is out! <a href='https://github.com/cleolibrary/CLEO5/releases/v5.1.0'>Download</a>.",
     "tags": ["cleo"]
@@ -40,7 +40,7 @@
     "content": "Sanny Builder v4.1 development started! Learn more about new features <a href='https://github.com/sannybuilder/dev/issues/355'>here</a>.",
     "tags": ["sanny"]
   },
-    {
+  {
     "date": "2025-01-01",
     "content": "Somersault, a lightweight scripting language for GTA San Andreas, has been open sourced. Visit <a href='https://github.com/sannybuilder/next'>GitHub repo</a>.",
     "tags": ["sanny"]
