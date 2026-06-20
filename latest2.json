@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-06-20",
+    "content": "CLEO Redux 1.5.0 is released! <a href='https://github.com/cleolibrary/CLEO-Redux/releases/1.5.0'>Check out new features</a>.",
+    "tags": ["cleo"]
+  },
+  {
     "date": "2026-03-16",
     "content": "CLEO 5 celebrates its first anniversary with the release of CLEO 5.4! <a href='https://github.com/cleolibrary/CLEO5/releases/v5.4.0'>Download</a>.",
     "tags": ["cleo"]
