@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-07-31",
+    "content": "CLEO for III and Vice City updated!. Visit <a href='https://github.com/cleolibrary/III.VC.CLEO/releases'>repository on GitHub</a> to download.",
+    "tags": ["cleo"]
+  },
+  {
     "date": "2026-07-23",
     "content": "NewOpcodes plugin received a QoL update with bug fixes. Visit <a href='https://github.com/cleolibrary/NewOpcodes'>repository on GitHub</a> for more information.",
     "tags": ["cleo"]
