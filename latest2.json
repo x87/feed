@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-09-26",
+    "content": "Full conversion of GTA III Mission script to CLEO Redux is released! <a href='https://github.com/x87/gta3.ts'>Visit repository on GitHub</a>.",
+    "tags": ["other"]
+  },
+  {
+    "date": "2026-09-26",
+    "content": "CLEO Redux updated to 1.5.1 with some bug fixes! <a href='https://github.com/cleolibrary/CLEO-Redux/releases/1.5.1'>Get new version</a>.",
+    "tags": ["cleo"]
+  },
+  {
     "date": "2026-09-13",
     "content": "NewOpcodes plugin updated to 2.5.1. Two bugs fixed. Visit <a href='https://github.com/cleolibrary/NewOpcodes'>repository on GitHub</a> for more information.",
     "tags": ["cleo"]
